@@ -15,7 +15,7 @@
 * 모델 학습에 사용한 GPU 리소스 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
 
 ## 개발 환경🔧
-Python 3.8.19의 아나콘다 가상환경에서 진행되었으며, requirements.txt에서 패키지 버전에 맞추어 환경 설정 후 확인 바랍니다. (Pytorch 모델 관련 패키지만 제공됩니다.)
+Python 3.8.19의 아나콘다 가상환경에서 진행되었으며, requirements.txt에서 패키지 버전에 맞추어 환경 설정 후 실행 바랍니다. (Pytorch 모델 관련 패키지 정보만 제공됩니다.)
 
 
 ## 프로젝트 내 역할
