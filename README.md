@@ -24,15 +24,15 @@ _(Pytorch 모델 관련 패키지 정보만 제공됩니다.)_
 3. 데이터셋 특징에 따른 이미지 분류 모델(CNN) 제작
 
 📦Thinkdrink
- ┣ 📂data (❌제공되지 않습니다.)
- ┣ 📂saved (❌모델 저장 폴더로 대용량으로 인해 제공되지 않습니다.)
- ┣ 📂source
- ┃ ┣ 📜dataset.py   #generate dataset
- ┃ ┣ 📜model.py   #model develop
- ┃ ┣ 📜setup.py   #initial arguments in model
- ┃ ┗ 📜trainer.py   #model trainer
- ┣ 📜.gitignore
- ┣ 📜README.md
- ┣ 📜THINKDRINK팀_발표자료.pdf
- ┣ 📜main.py   #confirm train/evaluate model
- ┗ 📜requirements.txt
+|-- 📂data (❌제공되지 않습니다.)
+|--📂saved (❌모델 저장 폴더로 대용량으로 인해 제공되지 않습니다.)
+|--📂source
+|--|--📜dataset.py   #generate dataset
+|--|--📜model.py   #model develop
+|--|--📜setup.py   #initial arguments in model
+|--|--📜trainer.py   #model trainer
+|--📜.gitignore
+|--📜README.md
+|--📜THINKDRINK팀_발표자료.pdf
+|--📜main.py   #confirm train/evaluate model
+|--📜requirements.txt
