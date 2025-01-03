@@ -23,16 +23,16 @@ _(Pytorch 모델 관련 패키지 정보만 제공됩니다.)_
 2. 스타벅스 음료 Top 10 (2022.08.XX 기준)의 이미지 수집 -> 이미지 데이터는 제공되지 않습니다.
 3. 데이터셋 특징에 따른 이미지 분류 모델(CNN) 제작
 
-📦Thinkdrink
-|-- 📂data (❌제공되지 않습니다.)
-|--📂saved (❌모델 저장 폴더로 대용량으로 인해 제공되지 않습니다.)
-|--📂source
-|--|--📜dataset.py   #generate dataset
-|--|--📜model.py   #model develop
-|--|--📜setup.py   #initial arguments in model
-|--|--📜trainer.py   #model trainer
-|--📜.gitignore
-|--📜README.md
-|--📜THINKDRINK팀_발표자료.pdf
-|--📜main.py   #confirm train/evaluate model
-|--📜requirements.txt
+```📦Thinkdrink
+ ┣ 📂data (❌제공되지 않습니다.)
+ ┣ 📂saved (❌모델 저장 폴더로 대용량으로 인해 제공되지 않습니다.)
+ ┣ 📂source
+ ┃ ┣ 📜dataset.py   #generate dataset
+ ┃ ┣ 📜model.py   #model develop
+ ┃ ┣ 📜setup.py   #initial arguments in model
+ ┃ ┗ 📜trainer.py   #model trainer
+ ┣ 📜.gitignore
+ ┣ 📜README.md
+ ┣ 📜THINKDRINK팀_발표자료.pdf
+ ┣ 📜main.py   #confirm train/evaluate model
+ ┗ 📜requirements.txt```
