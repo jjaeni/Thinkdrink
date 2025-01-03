@@ -2,3 +2,4 @@ __pycache__/
 data/
 datacampus_crawling/
 .DS_Store
+saved/ #모델은 대용량으로 ignore 처리함
