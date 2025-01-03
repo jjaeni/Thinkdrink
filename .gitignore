@@ -2,4 +2,4 @@ __pycache__/
 data/
 datacampus_crawling/
 .DS_Store
-saved/ #모델은 대용량 파일이므로 ignore 처리한다
+saved/
