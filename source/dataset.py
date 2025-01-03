@@ -2,7 +2,7 @@ import random
 import torch
 import torch.utils
 from torchvision import transforms, datasets
-from setup import setup_config
+from .setup import setup_config
 
 class StarbucksDataset():
     def __init__(self):
