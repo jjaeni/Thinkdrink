@@ -29,10 +29,6 @@ _(Pytorch 모델 관련 패키지 정보만 제공됩니다.)_
  ┣ 📂data (❌제공되지 않습니다.)
  ┣ 📂saved (❌모델 저장 폴더로 대용량으로 인해 제공되지 않습니다.)
  ┣ 📂source
- ┃ ┣ 📂crawling
- ┃ ┃ ┣ 📂image   # Image crawling
- ┃ ┃ ┣ 📂menu   # Cafe menu crawling only
- ┃ ┃ ┣ 📂nutrients   # Cafe menu crawling with nutrient info
  ┃ ┣ 📜dataset.py   # generate dataset
  ┃ ┣ 📜model.py   # model develop
  ┃ ┣ 📜setup.py   # initial arguments in model
